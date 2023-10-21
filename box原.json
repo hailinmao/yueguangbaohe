@@ -914,28 +914,28 @@
             "name" : "📻蜻蜓FM",
             "type" : 3,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%9C%BB%E8%9C%93FM.js"
+            "ext" : "https://codeberg.org/ygbh8888/BH/raw/branch/main/drpy_js/js/蜻蜓FM.js"
         },
         {
             "key" : "drpy_js_喜马拉雅",
             "name" : "🌙喜马拉雅",
             "type" : 3,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.js"
+            "ext" : "https://codeberg.org/ygbh8888/BH/raw/branch/main/drpy_js/js/喜马拉雅.js"
         },
         {
             "key" : "drpy_js_DJ音乐",
             "name" : "🎵DJ音乐",
             "type" : 3,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
+            "ext" : "https://codeberg.org/ygbh8888/BH/raw/branch/main/drpy_js/js/DJ%E9%9F%B3%E4%B9%90.js"
         },
          {
             "key" : "drpy_js_兔小贝",
             "name" : "🎈兔小贝",
             "type" : 3,
             "api" : "./lib/drpy2.min.js",
-            "ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e5%85%94%e5%b0%8f%e8%b4%9d.js"
+            "ext" : "https://codeberg.org/ygbh8888/BH/raw/branch/main/drpy_js/js/兔小贝.js"
         },
  {
       "key": "少儿教育",
