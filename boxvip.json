@@ -49,7 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "./h/token.txt","jar": "./jar/dm.jar"
     },
 {
       "key": "YiSo",
@@ -60,7 +60,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "./h/token.txt","jar": "./jar/dm.jar"
     },
     {
       "key": "Zhaozy",
@@ -71,7 +71,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "./h/token.txt","jar": "./jar/dm.jar"
     },
     {
       "key": "UpYun",
@@ -82,7 +82,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/123941cb-0e76-4602-9c24-31815225d4ab/token.txt","jar": "./jar/dm.jar"
+      "ext": "./h/token.txt","jar": "./jar/dm.jar"
     },
       {
       "key": "csp_XYQHiker_蚂蚁4K",
